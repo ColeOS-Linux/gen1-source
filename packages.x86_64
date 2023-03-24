@@ -87,7 +87,7 @@ zsh
 grub
 
 # System
-archlinux-appstream-data-pamac
+archlinux-appstream-data
 appstream-glib
 libpamac-nosnap
 pamac-nosnap
